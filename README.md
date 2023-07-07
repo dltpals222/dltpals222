@@ -1,8 +1,14 @@
-### Hi there 👋
+# Hello World! 
+### My name is leesemin!
 
-# 오오오오!!!
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-333333?style=plastic&logo=github&logoColor=ede6e6"/></a>
 
-![BlahBlah GitHub stats](https://github-readme-stats.vercel.app/api?username=dltpals222&show_icons=true&theme=radical)
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltpals222&layout=compact)
+
 
 <!--
 **dltpals222/dltpals222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
