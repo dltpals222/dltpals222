@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 # 오오오오!!!
+
+![BlahBlah GitHub stats](https://github-readme-stats.vercel.app/api?username=dltpals159&show_icons=true&theme=radical)
 
 <!--
 **dltpals222/dltpals222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
