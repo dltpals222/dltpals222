@@ -1,18 +1,20 @@
 ![reversal](https://capsule-render.vercel.app/api?type=slice&desc=dltpals222's%20github&rotate=8&descAlign=89&descAlignY=38&animation=fadeIn&color=auto&fontColor=ffffff)
 
-  <h1 align="center">Welcome My GitHub</h1> 
+  <h1 align="center">Welcome to My GitHub</h1> 
   <div align="right">
     
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltpals222%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div style="display:flex; flex-direction:row; justify-content:space-evenly">
 
+  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltpals222&layout=compact)
+</div>
 
 ---
 
-## 📑Use Skill
+## 📑I use the following tech stack
 
   ### Frontend
 <div style="display:flex; flex-direction:row;">
