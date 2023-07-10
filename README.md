@@ -66,7 +66,7 @@
 
 ![snake gif](https://github.com/dltpals222/dltpals222/blob/output/github-contribution-grid-snake.gif)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=auto)
+![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=auto&desc=dltpals222's%20github&rotate=8&descAlign=11&descAlignY=64&animation=fadeIn&fontColor=ffffff)
 
 <!-- <a href="https://github.com/dltpals222" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-333333?style=plastic&logo=github&logoColor=ede6e6"/></a> -->
 
