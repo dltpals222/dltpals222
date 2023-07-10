@@ -62,6 +62,9 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
+---
+
+<img src="https://github.com/{github username}/dltpals222/blob/output/github-contribution-grid-snake.svg"/>
 
 <!-- <a href="https://github.com/dltpals222" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-333333?style=plastic&logo=github&logoColor=ede6e6"/></a> -->
 
